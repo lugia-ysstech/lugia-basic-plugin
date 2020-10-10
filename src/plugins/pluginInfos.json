@@ -1,0 +1,9 @@
+[
+  {
+    "title": "切换标签页",
+    "desc": "切换标签页",
+    "userDef": {},
+    "type": "Action",
+    "pluginName": "ChangeTabs"
+  }
+]
